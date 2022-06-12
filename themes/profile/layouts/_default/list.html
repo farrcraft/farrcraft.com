@@ -14,6 +14,11 @@
         {{ range .Paginator.Pages }}
         <div class="col-lg-4 col-md-6 my-3">
             <div class="card h-100">
+                {{ if .Params.image }}
+                <div class="card-head">
+                    <img class="card-img-top" src="{{ .Params.image }}" alt="{{ .Title }}">
+                </div>
+                {{ end }}
                 <div class="card-body bg-transparent p-4 shadow-sm">
                     <a href="{{ .RelPermalink }}" class="primary-font card-title">
                         <h5 class="card-title bg-transparent" title="{{ .Title }}">{{ .Title | truncate 25 }}</h5>

@@ -1,0 +1,116 @@
+baseURL = 'https://farrcraft.com/'
+languageCode = 'en-us'
+title = 'farrcraft.com'
+theme = 'profile'
+
+[Menus]
+main = [
+    { identifier = 'blog', name = 'Blog', title = 'Blog posts', url = '/blog', weight = 1 },
+    { identifier = 'homebrew', name = 'Homebrew', title = 'Homebrewing', url = '/homebrewing', weight = 2 },
+    { identifier = 'photography', name = 'Photography', title = 'Photography', url = '/photography', weight = 3 },
+    { identifier = 'workshop', name = 'Workshop', title = 'Workshop', url = '/workshop', weight = 4 },
+]
+
+[params]
+title = 'farrcraft.com'
+favicon = '/favicon.png'
+
+[params.hero]
+enable = true
+intro = 'Hi, my name is'
+title = 'Josh.'
+subtitle = 'I make things'
+content = ''
+image = '/images/hero.png'
+
+[params.hero.socialLinks]
+fontAwesomeIcons = [
+    { icon = 'fab fa-github', url = 'https://github.com/farrcraft' },
+    { icon = 'fab fa-linkedin', url = 'https://www.linkedin.com/in/josh-farr/' }
+]
+
+[params.about]
+enable = true
+title = 'About Me'
+image = '/images/me.jpg'
+content = '''
+Originally hailing from southwest Missouri, I spent the better part of a decade in San Francisco before finally settling in Portland, Oregon. 
+I have over two decades of experience working in startups.
+My latest position has been as Director of Infrastructure at [Dribbble](https://dribbble.com).
+'''
+
+[params.experience]
+enable = true
+items = [
+    {company = 'Dribbble', companyUrl = 'https://dribbble.com/', date = 'Jan 2022 - May 2022', content = '''
+''', positions = [
+    {job = 'Director of Infrastructure', date = 'Jan 2022 - May 2022', content = '''
+Directed SRE team responsible for managing the combined Creative Market and Dribbble infrastructures.
+Planned and led strategic roadmap initiatives to continuously modernize infrastructure through IaC and containerization best practices.
+'''}
+]},
+    {company = 'Creative Market', companyUrl = 'https://creativemarket.com/', date = 'Aug 2013 - Jan 2022', content = '''
+''', positions = [
+    {job = 'Engineering Manager', date = 'March 2021 - Jan 2022', content = '''
+Managed the DevOps and Shops engineering teams. Led the launch of a blog re-platforming project, coordinating across multiple departments and outside vendors.
+Partnered with other engineering leaders and department heads to redefine engineering processes, leading to safer, more efficient workflows.
+Acted as Hiring Manager for multiple hiring pipelines to scale the existing engineering and DevOps teams.
+'''},
+    {job = 'Senior Operations Engineer', date = 'Aug 2013 - Feb 2021', content = '''
+Led design & deployment of AWS cloud infrastructure and migration from on-premise environment.  Created application CI and deployment pipelines.  
+Built and maintained internal go-based microservices. Developed and maintained font rendering and image manipulation services. 
+'''}
+]},
+    {company = 'FirstGiving', companyUrl = 'https://firstgiving.com/', date = '2010 - 2013', content = '', positions = [
+        {job = 'Senior Engineer', date = '2010 - 2013', content = '''
+At FirstGiving.com I worked with a team building a suite of tools used for processing donations for 501(c)(3) Non Profit Organizations. 
+The applications included RESTful web API's for searching over 2 million organizations and performing donation transaction processing, 
+an embeddable button widget with a popup donation window, a Facebook donation application, and backend reporting and analytics tools. 
+My work included backend and frontend feature implementation, 3rd party partner support, documentation, and long term application maintenance. 
+I was also charged with all of the application deployment and server management tasks. As the primary engineer in charge of AWS-based server infrastructure, 
+I designed and managed the server deployments and developed the application deployment tools and procedures.
+'''}
+    ]},
+    { company = 'Minted', companyUrl = 'https://minted.com/', date = '2008 - 2010', content = '', positions = [
+        {job = 'Senior Application Developer', date = '2008 - 2010', content = '''
+My 2+ year role as a senior engineer for minted.com began shortly prior to launch. Over the several following years, 
+the site grew into a successful high-end online stationery business. 
+During my time here I contributed many significant key features as well as overall site improvements. 
+The work ranged from defining core API and site architecture components and implementing core e-commerce and social platform features, 
+to server configuration, monitoring, deployment, and administration. Some of the feature work included:
+
+- Promotional engine capabilities
+- Cart and checkout features
+- Product format & feature implementation
+- Product customization abilities
+- Delivery estimator tool
+- 3rd party API integrations with Twitter, Facebook, Cybersource, Serena, Amazon
+'''}
+    ]},
+    { company = 'CTA', date = '2002 - 2005', content = '', companyUrl = '', positions = [
+        {job = 'Lead Web Developer', date = '2002 - 2005', content = '''
+Designed, built, and maintained multiple web applications for transportation logistics companies. Implemented technical solutions based on non-technical business user needs. Worked with partner companies to provide connectivity between web portal and AS/400 systems via EDI and FTP transports.
+Developed online intranet toolset and document imaging and archiving systems used to facilitate transportation logistics. Integrated third-party backend network tools using C and Perl with custom-built web interfaces.
+'''}
+    ]},
+    { company = 'Jesscom', date = '2002 - 2005', content = '', positions = [
+        {job = 'Web Developer', date = '2002 - 2005', content = '''
+Built numerous consumer-facing media websites, administrative back ends and e-commerce front ends for dynamic websites, including re-implementing static 
+websites as highly efficient and maintainable dynamic data driven web applications using standard accepted coding methods and practices. 
+Developed integrated solutions for non web-aware radio station cart programming software to deliver real-time play list information over the web using C++ 
+and windows services. Assisted design, implementation, and administration of network services and local support systems. Developed online intranet toolset 
+and document imaging and archiving systems used to facilitate transportation logistics. 
+Integrated third-party backend network tools using C and Perl with custom-built web interfaces.
+'''}
+    ]}
+]
+
+[params.projects]
+enable = true
+
+[params.footer]
+recentPosts = false
+
+[params.footer.socialNetworks]
+github = 'https://github.com/farrcraft'
+linkedin = 'https://www.linkedin.com/in/josh-farr/'

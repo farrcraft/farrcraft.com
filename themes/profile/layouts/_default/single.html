@@ -36,7 +36,8 @@
       </div>
       <div class="col-sm-12 col-md-12 col-lg-3">
         <div class="sticky-sidebar">
-          {{ if .Params.toc | default true}}
+          {{ if.Params.toc | default true}}
+            {{ if in .TableOfContents "ul" }}
           <aside class="toc">
               <h5>
                 Table Of Contents
@@ -45,6 +46,7 @@
                 {{.TableOfContents}}
               </div>
           </aside>
+            {{ end }}
           {{ end }}
 
           {{ if .Params.tags }}

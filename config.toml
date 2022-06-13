@@ -22,8 +22,8 @@ favicon = '/favicon.png'
 enable = true
 intro = 'Hi, my name is'
 title = 'Josh.'
-subtitle = 'I make things'
-content = ''
+subtitle = 'I make things*'
+content = '*(recovering yeller at clouds and snark generator)'
 image = '/images/hero.png'
 
 [params.hero.socialLinks]
@@ -38,8 +38,8 @@ title = 'About Me'
 image = '/images/me.jpg'
 content = '''
 Originally hailing from southwest Missouri, I spent the better part of a decade in San Francisco before finally settling in Portland, Oregon. 
-I have over two decades of experience working in startups.
-My latest position has been as Director of Infrastructure at [Dribbble](https://dribbble.com).
+I have over two decades of experience working in web startups. While my career started as a developer in product and infrastructure engineering teams, 
+I now focus on building and growing awesome engineering teams as an engineering leader. My latest position has been as Director of Infrastructure at [Dribbble](https://dribbble.com).
 '''
 
 [params.experience]

@@ -37,7 +37,7 @@ enable = true
 title = 'About Me'
 image = '/images/me.jpg'
 content = '''
-Originally hailing from southwest Missouri, I spent the better part of a decade in San Francisco before finally settling in Portland, Oregon. 
+I grew up a midwestern kid, originally hailing from southwest Missouri, then I migrated and spent the better part of a decade in San Francisco before finally settling in Portland, Oregon. 
 I have over two decades of experience working in web startups. While my career started as a developer in product and infrastructure engineering teams, 
 I now focus on building and growing awesome engineering teams as an engineering leader. My latest position has been as Director of Infrastructure at [Dribbble](https://dribbble.com).
 '''

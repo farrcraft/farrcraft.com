@@ -23,7 +23,7 @@ enable = true
 intro = 'Hi, my name is'
 title = 'Josh.'
 subtitle = 'I make things*'
-content = '*(see also: recovering yeller at clouds and snark generator)'
+content = '*(see also: recovering yeller at clouds and snark enthusiast)'
 image = '/images/hero.png'
 
 [params.hero.socialLinks]

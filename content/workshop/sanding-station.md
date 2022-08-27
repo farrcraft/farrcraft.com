@@ -13,6 +13,8 @@ I had essentially 3 problems:
 
 The answer to all of these was to build this new sanding station.  It is a small cart constructed from plywood. There is an open bottom bay below four drawers on metal ball bearing slides.  The top is made from laminated plywood topped with black laminate and edge banded with Douglas Fir strips.  The drawer faces are also made from scrap Douglas Fir (someday I'll run out). The larger bottom drawer faces were made by resawing and bookmatching narrower boards to make up the full face height. The cabinet is mounted on locking casters.
 
+I used Autodesk Fusion 360 to design the cabinet carcasse and then exported the drawing with measurements to a PDF - [Sanding Station Drawing v2](/workshop/pdf/sanding-station-drawing-v2.pdf).
+
 I now have stationary (semi) sanding tools that are more easily accessible and safer to use.  All of my sanding related tools and materials are in this cabinet so I don't have to hunt around the shop now.  Those countertop spaces had a brief moment of fresh air before succumbing back to horizontal surface-itus.
 
 ![Sanding Station Build - Base](/workshop/images/sanding-station-1.png)

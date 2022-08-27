@@ -6,3 +6,8 @@ The photo gallery uses the [Bootstrap 5 Lightbox](https://github.com/trvswgnr/bs
 
 
 All other content (c) Joshua Farr.
+
+## Deployment
+
+The current site deployment is hosted on GitHub Pages. There is a CD pipeline using GitHub Actions that automatically updates
+the `gh-pages` branch with the generated static site whenever changes to the main branch are pushed.

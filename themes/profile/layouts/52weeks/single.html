@@ -1,0 +1,69 @@
+{{ define "head" }}
+<meta name="description" content="{{ .Title }} of {{ .Site.Title }}">
+<link rel="stylesheet" href="{{ .Site.Params.staticPath }}/css/list.css" media="all">
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.css" />
+<script src="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.js"></script>
+{{ end }}
+
+{{ define "title" }}
+{{.Title }} | {{ .Site.Title }}
+{{ end }}
+
+{{ define "main" }}
+<div class="container pt-5" id="list-page">
+    <h2 class="text-center pb-2">{{.Title}}</h2>
+    <div class="row">
+        {{ $pages := .Resources.ByType "page" }}
+        {{ range sort $pages ".Params.week" }}
+        <div class="col-lg-4 col-md-6 my-3">
+            <div class="card h-100">
+                {{ if .Params.image }}
+                <div class="card-head">
+                    <img class="card-img-top" src="{{ .Params.image }}" alt="{{ .Title }}">
+                </div>
+                {{ end }}
+                <div class="card-body bg-transparent p-4 shadow-sm">
+                    <a href="{{ .RelPermalink }}" class="primary-font card-title">
+                        <h5 class="card-title bg-transparent" title="Week {{ .Params.week }}">Week {{ .Params.week | truncate 25 }}</h5>
+                    </a>
+                    <div class="card-text secondary-font">
+                        <p>{{ .Title | truncate 300}}</p>
+                    </div>
+                </div>
+                <div class="mt-auto post-footer bg-transparent py-3">
+                    {{ if .Date }}
+                    <span class="float-start bg-transparent">{{ .Date.Format "January 2, 2006" }}</span>
+                    {{ end }}
+                    <a href="{{ .RelPermalink }}" class="float-end btn btn-outline-info btn-sm">Read</a>
+                </div>
+            </div>
+        </div>
+        {{ end }}
+    </div>
+</div>
+<script>
+    const swiper = new Swiper('.swiper', {
+      // Optional parameters
+      // direction: 'vertical',
+      loop: true,
+    
+      // If we need pagination
+      pagination: {
+        el: '.swiper-pagination',
+      },
+    
+      // Navigation arrows
+      navigation: {
+        nextEl: '.swiper-button-next',
+        prevEl: '.swiper-button-prev',
+      },
+    
+      // And if we need scrollbar
+      scrollbar: {
+        el: '.swiper-scrollbar',
+      },
+    });
+</script>
+{{ end }}
+

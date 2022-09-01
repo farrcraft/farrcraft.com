@@ -11,6 +11,7 @@ main = [
     { identifier = 'brew-log', name = 'Brew Log', title = 'Brew Log', url = '/brew-log', parent = 'homebrew', weight = 2},
     { identifier = 'bottle-labels', name = 'Bottle Labels', title = 'Bottle Labels', url = '/bottle-labels', parent = 'homebrew', weight = 3},
     { identifier = 'photography', name = 'Photography', title = 'Photography', url = '/photography', weight = 3 },
+    { identifier = 'food', name = 'Food', title = 'Food', url = '/food', weight = 3 },
     { identifier = 'workshop', name = 'Workshop', title = 'Workshop', url = '/workshop', weight = 4 },
 ]
 

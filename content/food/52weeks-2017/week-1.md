@@ -2,10 +2,12 @@
 title: Screw-Ups Revisited - Smoked Boston Baked Beans
 type: 52weeks
 week: 1
-image: /food/images/2017/week-1.jpg
+card: /food/52weeks-2017/images-med/week-1.jpg
+url: /food/52-weeks-of-cooking/2017/week-1-screw-ups-revisited
 socialShare: false
 ---
 Adapted from: http://amazingribs.com/recipes/beans/boston_baked_beans.html
+
 I used 1/2# of dried pinto beans, soaked overnight.
 Divided into a smaller vegetarian batch using water (didn't have any vegetable broth on hand) and a larger batch using pancetta and chicken stock (1c super gelatinous homemade stock and 1c store-bought low sodium broth).
 

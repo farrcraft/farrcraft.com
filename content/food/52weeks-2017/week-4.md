@@ -1,7 +1,8 @@
 ---
-title: 2017 Week 4 - 
+title: Chowder - Spicy Corn Chowder
 type: 52weeks
 week: 4
-image: /food/52weeks/images/2017/week-4.jpg
+card: /food/52weeks-2017/images-med/week-4.jpg
+url: /food/52-weeks-of-cooking/2017/week-4-chowder-spicy-corn-chowder
 socialShare: false
 ---

@@ -2,7 +2,8 @@
 title: Meal Prep - Vegetable Stock
 type: 52weeks
 week: 47
-image: /food/52weeks/images/2017/week-47.jpg
+card: /food/52weeks-2017/images-med/week-47.jpg
+url: /food/52-weeks-of-cooking/2017/week-47-meal-prep
 socialShare: false
 ---
 Homemade vegetable stock.

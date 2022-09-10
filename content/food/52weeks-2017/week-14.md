@@ -2,7 +2,8 @@
 title: Southern - Fried Chicken + Sides
 type: 52weeks
 week: 14
-image: /food/52weeks/images/2017/week-14.jpg
+card: /food/52weeks-2017/images-med/week-14.jpg
+url: /food/52-weeks-of-cooking/2017/week-14-southern
 socialShare: false
 ---
 Southern Fried Chicken - http://www.seriouseats.com/recipes/2015/07/the-food-lab-southern-fried-chicken-recipe.html

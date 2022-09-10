@@ -2,6 +2,7 @@
 title: 52 Weeks of Cooking
 type: Post
 socialShare: false
+url: /food/52-weeks-of-cooking/
 ---
 # 52 Weeks of Cooking
 

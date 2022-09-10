@@ -2,7 +2,8 @@
 title: Oktoberfest - Potato Salad, Sausage
 type: 52weeks
 week: 40
-image: /food/52weeks/images/2017/week-40.jpg
+card: /food/52weeks-2017/images-med/week-40.jpg
+url: /food/52-weeks-of-cooking/2017/week-40-oktoberfest
 socialShare: false
 ---
 German potato salad and beer braised sausage with peppers and onions.  It isn't much to look at, but it sure tastes good.  It really is quite surprisingly delicious for how simple it is to put together.

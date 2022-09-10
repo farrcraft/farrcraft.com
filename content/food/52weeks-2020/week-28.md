@@ -1,7 +1,9 @@
 ---
-title: 2020 Week 28 - Soul Food - Pulled Pork Mac & Cheese
+title: Soul Food - Pulled Pork Mac & Cheese
 type: 52weeks
-image: /food/52weeks/images/2020/week-28.jpg
+week: 28
+card: /food/52weeks-2020/images/week-28.jpg
+url: /food/52-weeks-of-cooking/2020/week-28-soul-food
 socialShare: false
 ---
 

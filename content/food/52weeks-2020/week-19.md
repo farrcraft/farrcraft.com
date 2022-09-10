@@ -1,7 +1,9 @@
 ---
-title: 2020 Week 19 - Sri Lankan - Parippu
+title: Sri Lankan - Parippu
 type: 52weeks
-image: /food/52weeks/images/2020/week-19.jpg
+week: 19
+card: /food/52weeks-2020/images/week-19.jpg
+url: /food/52-weeks-of-cooking/2020/week-19-sri-lankan
 socialShare: false
 ---
 

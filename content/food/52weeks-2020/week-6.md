@@ -1,7 +1,9 @@
 ---
-title: 2020 Week 6 - Jamaican - Jerk Tofu & Chicken w/ Rice & Peas
+title: Jamaican - Jerk Tofu & Chicken w/ Rice & Peas
 type: 52weeks
-image: /food/52weeks/images/2020/week-6.jpg
+week: 6
+card: /food/52weeks-2020/images/week-6.jpg
+url: /food/52-weeks-of-cooking/2020/week-6-jamaican
 socialShare: false
 ---
 Jerk Tofu & Chicken w/ Rice & Peas 

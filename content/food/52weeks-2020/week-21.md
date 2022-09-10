@@ -1,7 +1,9 @@
 ---
-title: 2020 Week 21 - Flour - Beignets
+title: Flour - Beignets
 type: 52weeks
-image: /food/52weeks/images/2020/week-21.jpg
+week: 21
+card: /food/52weeks-2020/images/week-21.jpg
+url: /food/52-weeks-of-cooking/2020/week-21-flour
 socialShare: false
 ---
 

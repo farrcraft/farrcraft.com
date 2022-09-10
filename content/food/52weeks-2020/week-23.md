@@ -1,7 +1,9 @@
 ---
-title: 2020 Week 23 - Crunchy - Roasted Chickpeas
+title: Crunchy - Roasted Chickpeas
 type: 52weeks
-image: /food/52weeks/images/2020/week-23.jpg
+week: 23
+card: /food/52weeks-2020/images/week-23.jpg
+url: /food/52-weeks-of-cooking/2020/week-23-crunchy
 socialShare: false
 ---
 

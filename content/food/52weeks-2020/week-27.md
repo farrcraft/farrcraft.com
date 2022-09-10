@@ -1,8 +1,15 @@
 ---
-title: 2020 Week 27 - Retro Recipes - Chicken a la King
+title: Retro Recipes - Chicken a la King
 type: 52weeks
-image: /food/52weeks/images/2020/week-27.jpg
+week: 27
+card: /food/52weeks-2020/images/week-27-1.jpg
+url: /food/52-weeks-of-cooking/2020/week-27-retro-recipes
 socialShare: false
+slideshow:
+    - title: Mushrooms, all of the liquid cooked out and just starting to brown.  Browning == flavor.  This step can very easily take at least 10-15 minutes on its own.  Anyone that tells you it only takes two or five minutes should be banned from your kitchen until they come to their senses.  All of the water from the mushrooms needs to evaporate before they can even start to brown.  A pinch of salt helps draw out moisture here too (remember to salt at each step as you go).
+      image: /food/52weeks-2020/images/week-27-2.jpg
+    - title: A thick gravy coming together.  The color will lighten up a bit once the cream is stirred in.
+      image: /food/52weeks-2020/images/week-27-3.jpg
 ---
 
 For me this evokes strong memories of boxed dinners and cream of whatever canned soup-based casserole type dishes.  It also resembles a pot pie filling, just served over a starch instead of stuffed in a crust and baked.
@@ -38,9 +45,3 @@ egg noodles
 9) serve over egg noodles, biscuits, mashed potatoes, starch of choice and top with chopped parsley
 
 For a vegetarian version, simply replace chicken stock w/ vegetable stock, omit chicken (obvs).  You can also include any other assorted vegetables you want - e.g. fine diced carrots, frozen corn.
-
-
-Mushrooms, all of the liquid cooked out and just starting to brown.  Browning == flavor.  This step can very easily take at least 10-15 minutes on its own.  Anyone that tells you it only takes two or five minutes should be banned from your kitchen until they come to their senses.  All of the water from the mushrooms needs to evaporate before they can even start to brown.  A pinch of salt helps draw out moisture here too (remember to salt at each step as you go).
-
-
-A thick gravy coming together.  The color will lighten up a bit once the cream is stirred in.

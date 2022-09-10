@@ -1,6 +1,8 @@
 ---
-title: 2019 Week 51 - 
+title: Where You're From - Springfield-Style Cashew Chicken
 type: 52weeks
-image: /food/52weeks/images/2019/week-51.jpg
+week: 51
+card: /food/52weeks-2019/images/week-51.jpg
+url: /food/52-weeks-of-cooking/2019/week-51-where-youre-from
 socialShare: false
 ---

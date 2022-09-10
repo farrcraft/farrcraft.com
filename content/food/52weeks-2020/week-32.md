@@ -1,7 +1,9 @@
 ---
-title: 2020 Week 32 - Finnish - Korvapuusti (Cinnamon Buns)
+title: Finnish - Korvapuusti (Cinnamon Buns)
 type: 52weeks
-image: /food/52weeks/images/2020/week-32.jpg
+week: 32
+card: /food/52weeks-2020/images/week-32.jpg
+url: /food/52-weeks-of-cooking/2020/week-32-finnish
 socialShare: false
 ---
 

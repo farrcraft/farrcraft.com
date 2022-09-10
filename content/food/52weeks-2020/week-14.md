@@ -1,7 +1,9 @@
 ---
-title: 2020 Week 14 - Alphabet - BPT (Breaded Pork Tenderloin)
+title: Alphabet - BPT (Breaded Pork Tenderloin)
 type: 52weeks
-image: /food/52weeks/images/2020/week-14.jpg
+week: 14
+card: /food/52weeks-2020/images/week-14.jpg
+url: /food/52-weeks-of-cooking/2020/week-14-alphabet
 socialShare: false
 ---
 The BPT is a popular sandwich from the Midwest (claimed by either Iowa or Indiana, depending on who you ask). 

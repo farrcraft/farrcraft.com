@@ -1,8 +1,19 @@
 ---
-title: 2020 Week 2 - Miso - Ramen, Pork Tenderloin, Glazed Carrots
+title: Miso - Ramen, Pork Tenderloin, Glazed Carrots
 type: 52weeks
-image: /food/52weeks/images/2020/week-2.jpg
+week: 2
+card: /food/52weeks-2020/images/week-2-1.jpg
+url: /food/52-weeks-of-cooking/2020/week-2-miso
 socialShare: false
+slideshow:
+    - title: Even though I've cooked plenty of hard boiled eggs before, I'm not big on soft-boiled eggs and clearly have no practice making those, so the result ain't pretty.  The tofu here was also over-baked - I probably should have done a different preparation or just baked it a little less.
+      image: /food/52weeks-2020/images/week-2-2.jpg
+    - title: Since I've got the miso to use, why not throw together some simple glazed carrots (and a random leftover parsnip) while I'm at it.  Recipe from - https://omnivorescookbook.com/glazed-carrots/
+      image: /food/52weeks-2020/images/week-2-3.jpg
+    - title: I found these fresh noodles at one of the local Asian markets.  They had a bazillion different kinds of noodles to choose from.  These were found in the refrigerated section and actually say Ramen on them.  So I assume they must be the right ones.
+      image: /food/52weeks-2020/images/week-2-5.jpg
+    - title: I couldn't find anything that actually said "Kombu" on it at the previously said Asian market.  If I don't know anything about miso, I know even less about seaweed.  Anyway, I tossed a few inch piece off this sheet into the broth base.
+      image: /food/52weeks-2020/images/week-2-4.jpg
 ---
 Having never cooked with miso and not really knowing anything about it, this is the one I picked at the store.
 
@@ -12,14 +23,7 @@ I haven't come across a lot of vegetarian ramen broths and I'm not extremely ver
 
 In this bowl - noodles, broth, baby spinach, bamboo shoots, corn, sauteed shiitakes, baked tofu, soft boiled egg.
 
-Even though I've cooked plenty of hard boiled eggs before, I'm not big on soft-boiled eggs and clearly have no practice making those, so the result ain't pretty.  The tofu here was also over-baked - I probably should have done a different preparation or just baked it a little less.
-
 Not pictured, I also had some sliced miso glazed pork tenderloin.  Which, while it probably didn't fit the ramen, was good on its own.  I started with a plain sous vide, as per - https://recipes.anovaculinary.com/recipe/sous-vide-hoisin-glazed-pork-tenderloin 
 Except using this glaze instead: https://www.bonappetit.com/recipe/roast-pork-tenderloin-with-apricot-miso-glaze
 Additionally, I just used the oven broiler for a quick minute or two per side - applying the glaze and rotating instead of bothering with the grill.
 
-Since I've got the miso to use, why not throw together some simple glazed carrots (and a random leftover parsnip) while I'm at it.  Recipe from - https://omnivorescookbook.com/glazed-carrots/
-
-I found these fresh noodles at one of the local Asian markets.  They had a bazillion different kinds of noodles to choose from.  These were found in the refrigerated section and actually say Ramen on them.  So I assume they must be the right ones.
-
-I couldn't find anything that actually said "Kombu" on it at the previously said Asian market.  If I don't know anything about miso, I know even less about seaweed.  Anyway, I tossed a few inch piece off this sheet into the broth base.

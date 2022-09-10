@@ -1,9 +1,12 @@
 ---
-title: 2020 Week 12 - Peppers - Enchiladas
+title: Peppers - Enchiladas
 type: 52weeks
-image: /food/52weeks/images/2020/week-12.jpg
+week: 12
+card: /food/52weeks-2020/images/week-12-1.jpg
+url: /food/52-weeks-of-cooking/2020/week-12-peppers
 socialShare: false
+slideshow:
+    - title: The base of any good enchilada sauce starts with dried peppers. Here we have a blend of Guajillo, New Mexico, Ancho, Chipotle, and Seco.
+      image: /food/52weeks-2020/images/week-12-2.jpg
 ---
 Chicken Enchiladas w/ Refried Beans & Mexican Rice
-
-The base of any good enchilada sauce starts with dried peppers - Guajillo, New Mexico, Ancho, Chipotle, Seco.

@@ -1,7 +1,9 @@
 ---
-title: 2020 Week 33 - Food in Disguise - Vegan Chicken & Waffles
+title: Food in Disguise - Vegan Chicken & Waffles
 type: 52weeks
-image: /food/52weeks/images/2020/week-33.jpg
+week: 33
+card: /food/52weeks-2020/images/week-33.jpg
+url: /food/52-weeks-of-cooking/2020/week-33-food-in-disguise
 socialShare: false
 ---
 

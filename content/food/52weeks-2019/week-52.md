@@ -1,6 +1,8 @@
 ---
-title: 2019 Week 52 - 
+title: Rolled - Sushi
 type: 52weeks
-image: /food/52weeks/images/2019/week-52.jpg
+week: 52
+card: /food/52weeks-2019/images/week-52.jpg
+url: /food/52-weeks-of-cooking/2019/week-52-rolled-sushi
 socialShare: false
 ---

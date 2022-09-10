@@ -11,15 +11,12 @@
 <div class="container pt-5" id="list-page">
     <h2 class="text-center pb-2">{{.Title}}</h2>
     <div class="row">
-        {{ $pages := .Resources.ByType "page" }}
         {{ range sort .Pages ".Params.week" }}
         <div class="col-lg-4 col-md-6 my-3">
             <div class="card h-100">
-                {{ if .Params.image }}
                 <div class="card-head">
-                    <img class="card-img-top" src="{{ .Params.image }}" alt="{{ .Title }}">
+                    <img class="card-img-top" src="{{ .Params.Card }}" alt="{{ .Title }}">
                 </div>
-                {{ end }}
                 <div class="card-body bg-transparent p-4 shadow-sm">
                     <a href="{{ .RelPermalink }}" class="primary-font card-title">
                         <h5 class="card-title bg-transparent" title="Week {{ .Params.week }}">Week {{ .Params.week | truncate 25 }}</h5>
@@ -40,4 +37,3 @@
     </div>
 </div>
 {{ end }}
-

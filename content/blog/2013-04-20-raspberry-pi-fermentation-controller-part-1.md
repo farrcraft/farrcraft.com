@@ -14,10 +14,6 @@ categories:
 
 The Raspberry Pi is a cheap single-board computer with generic IO features which make it ideal for brewery automation projects. The [BrewPi][1] project is just one example. I decided to assemble a similar project with the goal of being able to monitor, log, and control the fermentation temperature of two 5-6 gallon carboys of fermenting beer.
 
-<!-- more -->
-
-![][2] 
-
 #### Parts List
 
   * [Raspberry Pi][3]
@@ -114,7 +110,6 @@ You can now shutdown the Pi, unhook the network cable, and boot it back up. Afte
 That’s all there is to getting a basic Raspberry Pi computer up and running. Next, you’ll probably want to start getting more software installed and start playing with some sensors. I’ll follow up with the details on how I did that in [Part 2][15].
 
  [1]: http://brewpi.com/
- [2]: http://www.quantumfish.com/images/pi/IMG_8082.JPG
  [3]: http://www.newark.com/jsp/search/productdetail.jsp?id=43W5302&Ntt=43W5302&COM=raspi-group
  [4]: http://www.amazon.com/gp/product/B007JRB0RE/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B007JRB0RE&linkCode=as2&tag=homereso01-20
  [5]: http://www.amazon.com/gp/product/B003MTTJOY/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B003MTTJOY&linkCode=as2&tag=homereso01-20
@@ -127,4 +122,4 @@ That’s all there is to getting a basic Raspberry Pi computer up and running. N
  [12]: http://www.raspberrypi.org/quick-start-guide
  [13]: http://glynrob.com/hardware/raspberry-pi-headless/
  [14]: http://www.savagehomeautomation.com/projects/raspberry-pi-installing-the-edimax-ew-7811un-usb-wifi-adapte.html
- [15]: http://www.quantumfish.com/blog/2013/04/24/raspberry-pi-pt-2/
+ [15]: /blog/2013/04/24/raspberry-pi-fermentation-controller-part-2/

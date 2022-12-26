@@ -15,9 +15,9 @@ My last vacation back to Missouri was for Thanksgiving last year. Here is a shor
 
 [Thanksgiving 2009][1] from [Josh Farr][2] on [Vimeo][3].
 
-Also &#8211; the [Flickr Set][4] from the trip.
+Also &#8211; the [Photo Set](/gallery/thanksgiving-2009) from the trip.
 
  [1]: http://vimeo.com/7846805
  [2]: http://vimeo.com/user2702986
  [3]: http://vimeo.com
- [4]: http://www.flickr.com/photos/quantumfish/sets/72157623003372752/
+ 

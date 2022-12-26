@@ -223,11 +223,11 @@ service mongodb start
 
 After going through all of these steps, you’ll have a Raspberry Pi running with Graphite, StatsD, MongoDB, and Node.js. It’s a good idea to try rebooting (_shutdown -r now_ will accomplish this) and make sure that all of the services start up on boot as they’re supposed to. The _ps_ command can be used to show running processes and verify that the services are all running. In [part 3][8] I’ll cover the rest of the hardware components of the project and how to get all of the sensors wired up.
 
- [1]: http://www.quantumfish.com/blog/2013/04/20/raspberry-pi-pt-1/
+ [1]: /blog/2013/04/20/raspberry-pi-fermentation-controller-part-1/
  [2]: http://graphite.readthedocs.org/en/0.9.10/
  [3]: http://codeascraft.etsy.com/2011/02/15/measure-anything-measure-everything/
  [4]: http://nodejs.org/
  [5]: http://www.mongodb.org/
- [6]: http://www.quantumfish.com/images/pi/pi_console.jpg
+ [6]: /images/pi/pi_console.jpg
  [7]: https://github.com/ghoulmann/rpi-graphite/blob/master/rpi-graphite.sh
- [8]: http://www.quantumfish.com/blog/2013/05/14/raspberry-pi-pt-3/
+ [8]: /blog/2013/05/14/raspberry-pi-fermentation-controller-part-3/

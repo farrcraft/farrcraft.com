@@ -17,7 +17,7 @@ categories:
 
 <!-- more -->
 
-[![Assembled Panel](http://farm6.staticflickr.com/5458/9009804705_b4da0aacd3.jpg)][3] 
+![Assembled Panel](/images/rpi-ferment/9009804705_b4da0aacd3.jpg)
 
 ## Temperature Sensors
 
@@ -29,7 +29,7 @@ With only 3 wires, the sensors are fairly easy to wire up. The Adafruit learning
 
 Each sensor has its own unique serial number which is reported by the software driver. The serial number is also etched on the surface of the sensor. Once you have the sensors hooked up and working, you will probably want to record the serial number and label each sensor so that you can more easily keep track of where each one is being used. 
 
-[![Sensor Cable](http://farm4.staticflickr.com/3830/9009809523_b8d41332b4.jpg)][7] 
+![Sensor Cable](/images/rpi-ferment/9009809523_b8d41332b4.jpg)
 
 ## SSR’s
 
@@ -49,7 +49,7 @@ Along with being able to raise the temperature of individual fermentors, you’l
 
 Instead of submersing the temperature sensors directly into the fermentors, I’m using [thermowells][12]. These are simple stainless steel tubes with one end crimped that fit through a carboy cap or stopper. The temperature sensors fit neatly inside the tube and are kept safe and dry. You could also choose to submerse the sensor directly instead by either buying premade waterproof sensor cables or making your own. In this case you’d want to verify that the assembly is food safe before using it. 
 
-[![Termowell](http://farm3.staticflickr.com/2876/9010983016_0db5f3bd18.jpg)][13] 
+![Thermowell](/images/rpi-ferment/9010983016_0db5f3bd18.jpg)
 
 Even with the thermowells, your sensors will need to be attached to some sort of cable. For my cables I stripped an old spare cat5 network cable and soldered three of the individual twisted pair wires to each sensor. You could use telephone wire or any other low voltage copper wire for this instead &#8211; I tried to reuse spare parts I already had on hand as much as I could. To finish each cable, I used some [1/8” braided sleeving][14] and heat shrink tubing to secure the ends. I happened to have some braided tubing leftover from another project. While it isn’t strictly necessary to make the cables, it does help make them a bit more rugged, adding a layer of protection to the wires and makes the assembly look a bit more professional. 
 
@@ -61,28 +61,24 @@ When prototyping sensors and other devices using the Pi’s GPIO header, you’l
 
 Once I completed prototyping the parts, I assembled the sensor cables and wired everything into an enclosure. I chose a cheap [8x6x3” plastic project box][17] from Radio Shack. The type of enclosure you choose will depend on the specific components you are using. I was able to fit the Pi, two SSR’s, and a terminal block inside the box with a pair of [switches][18] and a two gang receptacle mounted to the front of the box. I used a dremel and regular drill to cut all of the holes I needed in the project box. It needed three holes drilled in sides of the box &#8211; for the Pi’s power adapter, the AC power cable for the outlets, and the sensor cables. I used a step bit to drill the larger 22mm holes for the switches and a dremel to cut a rectangular hole large enough to mount the receptacle. 
 
-[![Internals](http://farm8.staticflickr.com/7337/9009814161_8f21119182.jpg)][19] 
+![Internals](/images/rpi-ferment/9009814161_8f21119182.jpg)
 
 I cut the female plug end off a spare grounded PC power cord to use for powering the AC outlets. The switches were wired in between the power and each SSR. This gives me a physical override to disable power going to each outlet. Should there be a SSR failure or some other software malfunction, I can be guaranteed that a heater won’t be inadverntently turned on with the switch. It’s not necessary, but since I already had the switches on hand it seemed like a nice extra safety feature to add. 
 
 When wiring power receptacles, you’ll most likely have each outlet driven by a separate SSR. While most two gang receptacles will have two hot and two neutral terminals on each side, the terminals are joined together with a small metal tab. In order to make the outlets independently powered you’ll need to use a pair of side cutters to snip the metal tabs in two to isolate the terminals.
 
- [1]: http://www.quantumfish.com/blog/2013/04/20/raspberry-pi-pt-1/
- [2]: http://www.quantumfish.com/blog/2013/04/24/raspberry-pi-pt-2/
- [3]: http://www.flickr.com/photos/quantumfish/9009804705
+ [1]: /blog/2013/04/20/raspberry-pi-fermentation-controller-part-1/
+ [2]: /blog/2013/04/24/raspberry-pi-fermentation-controller-part-2/
  [4]: http://www.amazon.com/gp/product/B007STHA22/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B007STHA22&linkCode=as2&tag=homereso01-20
  [5]: http://www.radioshack.com/product/index.jsp?productId=2062328
  [6]: http://learn.adafruit.com/adafruits-raspberry-pi-lesson-11-ds18b20-temperature-sensing/overview
- [7]: http://www.flickr.com/photos/quantumfish/9009809523/
  [8]: http://www.auberins.com/index.php?main_page=index&cPath=2_30
  [9]: http://www.amazon.com/gp/product/B0057OC5O8/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B0057OC5O8&linkCode=as2&tag=homereso01-20
  [10]: http://morebeer.com/products/fermwraptm-heater.html?site_id=5
  [11]: http://www.reptilebasics.com/heat-tape
  [12]: http://morebeer.com/products/hood-thermowell-3-5-6-65-gallon-smooth-neck-carboys-15.html
- [13]: http://www.flickr.com/photos/quantumfish/9009814161
  [14]: http://www.amazon.com/gp/product/B004GE49US/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B004GE49US&linkCode=as2&tag=homereso01-20
  [15]: http://www.amazon.com/gp/product/B004RXKWDQ/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B004RXKWDQ&linkCode=as2&tag=homereso01-20
  [16]: http://www.amazon.com/gp/product/B00BE6HLHE/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00BE6HLHE&linkCode=as2&tag=homereso01-20
  [17]: http://www.radioshack.com/product/index.jsp?productId=2062285
  [18]: http://www.auberins.com/index.php?main_page=product_info&cPath=7_32&products_id=236
- [19]: http://www.flickr.com/photos/quantumfish/9010983016

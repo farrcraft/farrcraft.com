@@ -38,9 +38,11 @@ enable = true
 title = 'About Me'
 image = '/images/me.jpg'
 content = '''
-I grew up a midwestern kid, originally hailing from southwest Missouri, then I migrated and spent the better part of a decade in San Francisco before finally settling in Portland, Oregon. 
-I have over two decades of experience working in web startups. While my career started as a developer in product and infrastructure engineering teams, 
-I now focus on building and growing awesome engineering teams as an engineering leader. My latest position has been as Director of Infrastructure at [Dribbble](https://dribbble.com).
+I grew up a midwestern kid, originally hailing from southwest Missouri, before heading west where I spent the better part of a decade in San Francisco. I eventually left the bay area, heading north 
+to finally settle in Portland, Oregon. 
+
+While I spent the first two decades of my career as a developer in product and infrastructure engineering teams at web scale startups, 
+I now focus on building and growing awesome engineering teams as an engineering leader. I am currently an Engineering manager at [Nava PBC](https://www.navapbc.com/).
 '''
 
 [params.experience]
@@ -48,7 +50,7 @@ enable = true
 items = [
     {company = 'Nava PBC', companyUrl = '', date = 'Sept 2022 - Current', content = '''
 ''', positions = [
-    {job = 'Engineering Manager'}
+    {job = 'Engineering Manager', date = 'Sept 2022 - Current'}
 ]},
     {company = 'Dribbble', companyUrl = 'https://dribbble.com/', date = 'Jan 2022 - May 2022', content = '''
 ''', positions = [

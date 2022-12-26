@@ -46,7 +46,6 @@ For new equipment, I need a MLT (Mash Lauter Tun). This is the vessel in which c
 
 The primary concern when considering cooler designs is how the wort will be drained from the container. The first step usually involves replacing the standard spigot with a brass/stainless steel bulkhead assembly and ball shutoff valve for easy on/off liquid flow control. These parts are easily picked up from your hardware store’s plumbing department. Some sort of manifold or false bottom is also necessary in order to promote efficient draining of the wort from the grain bed. For my purposes, I’ve chosen a simple DIY design based on a braided stainless steel hose attached to the end of my modified inner bulkhead fitting. Parts assembled, I have everything I need to begin my first all grain brew.
 
-[![Sparging](http://farm5.static.flickr.com/4063/4580770610_4f1a4f4cbf_d.jpg)][5]
 
 One of the key characteristics which define Scottish ales are the caramelized and burnt toffee notes. In this recipe, these flavors are produced by boiling down and reducing a small amount of the first runnings before combining them with the remainder of the wort. The first quart or two of the wort drained from the MLT will be reserved and boiled separately until it is reduced in volume by around half before being combined with the remainder of the wort in the boil kettle.
 
@@ -64,5 +63,4 @@ So, after everything is this a delicious quaffable brew? Every beer I’ve made 
  [2]: http://www.moylans.com/pages/brewery/beers.htm
  [3]: http://www.homebrewtalk.com/f65/if-its-not-scottish-its-crap-33739/
  [4]: http://www.imdb.com/title/tt0108174/
- [5]: http://www.flickr.com/photos/quantumfish/4580770610/in/set-72157622732321605/
  [6]: http://www.oakbarrel.com/

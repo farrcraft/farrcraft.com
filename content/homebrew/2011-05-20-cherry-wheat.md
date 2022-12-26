@@ -29,7 +29,7 @@ I set aside the remaining portion of starter which hadn’t fit in the carboy an
 
 I would stock up on the cherries destined to go into the secondary container the following week. In the meantime I was faced with another moment of poor planning. I didn’t have an available secondary container to transfer the beer and cherries into. I had just moved my apocalyptic stout into my only bucket and I had just the one carboy free. Even my kegs were all full. This batch would completely fill my pipeline up and I would have nowhere to transfer it for the secondary phase. While an impromptu order placed with MoreBeer for a new 6 gallon bucket was a quick and easy fix to the situation at hand, it remains a valuable lesson in the proper capacity planning of the beer pipeline.
 
-[![Cherry + Wheat](http://farm3.static.flickr.com/2471/5837681315_002e34668e.jpg)][1]
+
 
 ## Cherry Wheat
 
@@ -67,7 +67,7 @@ I would stock up on the cherries destined to go into the secondary container the
   * A.B.V.: 5.6%
   * IBUs: 17.4
 
-[![Cherry Sauce](http://farm4.static.flickr.com/3132/5837682141_fdf8490177.jpg)][2]
+![Cherry Sauce](/images/homebrew/IMG_0107.jpg)
 
 ### Cherry Mash
 
@@ -91,5 +91,3 @@ I’m sure the filtering problems probably had a large impact on the final quali
 
 I also initially thought that I might have used a little bit too many cherries. The cherry could stand to be a little less prominent. However, bottling and aging has helped to subdue the results a little bit. I’ve enjoyed it a bit more a few months later than I did initially. I’m definitely looking forward to experimenting with cherries again next season. I might even try a soured version next time. In the meantime, I still have a few bottles kept in reserve.
 
- [1]: http://www.flickr.com/photos/quantumfish/5837681315/in/set-72157622732321605/
- [2]: http://www.flickr.com/photos/quantumfish/5837682141/in/set-72157622732321605/

@@ -34,7 +34,7 @@ Bell’s Two Hearted Ale is an IPA brewed by [Bell’s][1] out of Kalamazoo, Mic
   * 1.0oz. @ 5 minutes
   * 0.5oz. Dry Hop @ 6 days in secondary for 7 days
 
-[![Malt & Hops](http://farm5.static.flickr.com/4033/4363722225_3419e3133f.jpg)][3]
+
 
 The clerk at my [LHBS][4] recommended sticking with a cheaper single liquid extract instead of two different more expensive dry malt extracts. Taking his advice, I replaced the six pounds and twelve ounces of dry extract with eight pounds of pale liquid malt extract. According to [BeerSmith’s][5] calculations, this seems to produce a slightly darker, lower A.B.V, and more bitter beer. The difference does not seem to be significant, though. There is a bigger difference in stats due to using the late extract addition method. Less extract at the beginning of the boil means increased hops utilization and a higher final IBU.
 
@@ -72,13 +72,13 @@ The brewing session went along fairly smoothly and without any major hiccups. Th
 
 The session picked back up with the main boiling period. I’d decided to continue to use late extract addition with a small amount of extract added at the start and the bulk of the remainder near the end. So there were two extract additions and three hop additions along with the clarifier tablet before flameout. The kettle then went into the ice water bath in the sink to cool down below 80 degrees. Once cool, it was mixed with the remaining water in the primary fermenter and the yeast pitched. The last step was sealing it all up with the lid, stopper, and sanitized airlock.
 
-[![Brew Kettle](http://farm3.static.flickr.com/2699/4363723023_5ef65c0197.jpg)][6]
+![Brew Kettle](/images/homebrew/IMG_9697.jpg)
 
 Fast forward twelve hours later to the next morning and there was still virtually no airlock activity. Was the wort hotter than I thought? Had I not aerated it enough? Would I need to go back to the store for more yeast and repitch? I gave it a bit more time and worrying about and by mid-afternoon, the little brewing droid finally began to show signs of life with it’s dutiful bloops and gargles. Within around 36 hours after pitching, yeast activity had kicked into high gear, pushing foam and solid material up into the airlock. Not wanting to switch my worrying over to a clogged airlock and a huge mess, I swapped it out with a sanitized blow off tube and run off bucket.
 
 There are still a few areas in my process that need improvement. I forgot to take a hydrometer reading until almost an hour after I pitched the yeast. This should have been done right before pitching. Also, I might have been able to aerate the wort a bit more by pouring the first batch of water in the primary fermenter a bit more. I don’t think I’m getting very good conversion of my steeped grains. The slightly lower than expected O.G. reading seems to suggest this. I didn’t cover the kettle during the steep so I probably lost a lot more temperature over the course of the half hour than I should have. I also should have rinsed the grains with hot water at the end in order to extract more wort goodness from them.
 
-[![Clogged Airlock](http://farm5.static.flickr.com/4058/4368926613_074d69d5cc.jpg)][7]
+![Clogged Airlock](/images/homebrew/IMG_9699.jpg)
 
 One of the things I learned coming from the Porter session was how to better handle adding the malt extract. During that boil, the extract hit the bottom of the kettle and scorched and burned. This time, during each extract addition I turned off the heat and then mixed a bit of the hot liquid into the extract before adding it into the kettle. (You could think of this sort of like tempering an egg mixture when making a custard or some egg based sauce.) When working with liquid extract, this loosens it up and makes it easier to mix in. Plus, you can get all of it in the kettle without leaving a thick layer stuck in your measuring container.
 
@@ -90,8 +90,5 @@ S.G. at the time of racking to secondary was at 1.015 for an A.B.V. of 5.74%. Ev
 
  [1]: http://www.bellsbeer.com/home
  [2]: http://www.yelp.com/biz/patton-alley-pub-springfield
- [3]: http://www.flickr.com/photos/quantumfish/4363722225/
  [4]: http://sfbrewcraft.com
  [5]: http://www.beersmith.com/
- [6]: http://www.flickr.com/photos/quantumfish/4363723023/
- [7]: http://www.flickr.com/photos/quantumfish/4368926613/in/set-72157622732321605/

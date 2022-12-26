@@ -26,7 +26,7 @@ While I usually do 5 or 10 gallon batches and not the small 1 gallon batches tha
 
 The brews themselves taken care of, I wanted to create some promotional artwork tied to each beer that could be displayed at the event.  This was also a great way to show off some examples of what could be done with the products sold on <a href="https://creativemarket.com/?u=sigsegv" target="_blank">Creative Market</a>.  When it comes to flyers, there is a good selection of high quality templates available to use as a starting point.  Combining these with additional image assets from the site, it&#8217;s easy to quickly create a good looking piece of promotional material.
 
-![Kahve Fali](https://www.itinerancy.com/wp-content/uploads/2015/08/Kahve-Fali-web.jpg)
+![Kahve Fali](/uploads/2015/08/Kahve-Fali-web.jpg)
 
 
 I used this <a href="https://creativemarket.com/cruzine/1126-Retro-Style-Party-Flyer?u=sigsegv" target="_blank">Retro Style Party Flyer</a> customized with some <a href="https://creativemarket.com/define_gravity/14405-Coffee-Pots?u=sigsegv" target="_blank">Coffee Pot Graphics</a> for the <em>Kahve Fali</em> poster.  Unfortunately, the template I used for <em>The Greyhound</em> poster is no longer available for sale (Don&#8217;t worry &#8211; even if a product disappears from the store, it&#8217;s still always available to re-download in your purchase history.  The site also offers convenient syncing of purchased products onto Dropbox.)  If you want to make your own posters or flyers, I&#8217;d recommend starting with <a href="https://creativemarket.com/FlyerHeroes/collections?u=sigsegv" target="_blank">FlyerHeroes</a>&#8216; shop.

@@ -21,7 +21,7 @@ I’ve gone from brewing partial-boil extract recipes taken from the internet to
 
 One of the more advanced brewing process controls is water quality. This can extend all the way from very simple water source control to precise adjustments of specific pH and mineral levels. I’ve chosen to start very simply by just filtering my water. Up to now I’ve always used water directly from the tap. After all, San Francisco is claimed to have some of the best tap water in the country &#8211; I drink it every day.
 
-[![Brew Log](http://farm6.static.flickr.com/5144/5621236606_f22514594d.jpg)][2]
+
 
 Unfortunately, I’ve come to realize all of the water that I’ve been using for the last several batches might not be from the best source &#8211; the good old green backyard garden hose. While there may be some dispute on how the green backyard hose really affects your water and whether it infuses any of its own off flavors in the final product, I’ve chosen the safe route by introducing a water filter and getting rid of the garden hose completely.
 
@@ -101,6 +101,5 @@ I’ve tried to stick with the Belgian style of a clean, simple grain bill so th
 
 I’m finishing writing this up some time after the last of the keg has finally kicked. I’ve bottled up a dozen or so bottles of this batch to age and save for future special events. Not all of the batches I’ve crafted from my own recipes have been home runs. In fact, at least a few have been largely mediocre &#8211; not bad, just not particularly noteworthy. This is the first one in a while I feel like I’ve really nailed right out of the gate. I’ll definitely be keeping this recipe around for future batches as it stands. I look forward to reworking those other less than stellar recipes and hope to end up with something I can get as excited about as this one.
 
- [1]: http://itenerancy.com/blog/2009/12/22/the-belgian-blonde/
- [2]: http://www.flickr.com/photos/quantumfish/5621236606/in/set-72157622732321605/
+ [1]: /homebrewing/2009/12/22/the-belgian-blonde/
  [3]: http://morebeer.com/view_product/16762//Water_Filter_Kit_-_10_inch

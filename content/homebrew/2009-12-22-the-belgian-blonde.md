@@ -46,7 +46,7 @@ _08-07-09 &#8211; 11PM_
 
 I began with preparing a yeast starter the evening before the brewing session. The wort was prepared by mixing 1 cup of the DME into 2 pints of water and boiling it for 15 minutes to sterilize it. The boil pot was then quickly cooled in an ice bath for about 10 minutes before transferring the liquid to another container and pitching the yeast. The container, a funnel, large stopper, and airlock were all sanitized beforehand. A stopper and airlock are then placed into the container to seal it. The airlock should begin bubbling as a sign that the yeast is doing its job. The cell count should now double within the next 12 to 24 hours.
 
-[![Yeast Starter](http://farm3.static.flickr.com/2672/4125600699_f5505a4871.jpg)][1]
+![Yeast Starter](/images/homebrew/IMG_8365.jpg)
 
 A large erlenmeyer flask is often recommended because it can be used directly on the stove without requiring a separate boiling pot. However, Any food grade plastic or glass container can be used to hold the starter. A bottle or jug into which a standard stopper fits works the best. I used a plastic 1/2 gallon orange juice jug. The same stopper which fits in a glass carboy fits tightly in the opening.
 
@@ -58,7 +58,7 @@ _08-08-09 &#8211; 4PM_
 
 When I purchased the hops at my LHBS, the AAU’s were slightly different from the recipe. The Hallertau was only 3.6% and the Styrian Goldings were just 4%. As a result, I adjusted the recipe slightly and included an extra ounce of Hallertau in the bill. Half of it went in with the original scheduled hop addition and the remainder was added at flame out.
 
-[![Beer Powder](http://farm3.static.flickr.com/2609/4125602051_4a0114f38c.jpg)][2]
+
 
 At this point, the ingredients are sorted out and I’m finally ready to begin the brew. Once everything is organized, it’s actually a pretty simple process. Boil, steep, boil, add ingredients, sterilize items, stir, etc. From the notes taken in my log book during the session, this was my procedure:
 
@@ -116,6 +116,3 @@ The final yield count of batch #2:
   * 20 bombers
   * 5 12oz stubby’s
   * 1 1pt 0.9oz
-
- [1]: http://www.flickr.com/photos/quantumfish/4125600699/in/set-72157622732321605/
- [2]: http://www.flickr.com/photos/quantumfish/4125602051/in/set-72157622732321605/

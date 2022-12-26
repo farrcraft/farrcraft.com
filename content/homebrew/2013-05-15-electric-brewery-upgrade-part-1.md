@@ -28,7 +28,8 @@ My next decision was to use a recirculating mash system for maintaining consiste
 
 There has been a significant amount of debate amongst homebrewers on the pros and cons of both types of recirculating mash systems. Initially, I considered using RIMS, but after further research I eventually settled on HERMS instead. The biggest impact on my decision wasn’t as much to do with the benefits of one over the other as it was the availability of clear documentation for assembling either type of system. Probably one of the very best sets of documentation for building a complete HERMS brewery from start to finish is the [The Electric Brewery][1] website.
 
-[<img loading="lazy" title="Pilot System" src="http://farm9.staticflickr.com/8511/8427093799_c79beab5f3.jpg" alt="Pilot System" width="500" height="333" />][2]
+![Pilot System](/images/homebrew/IMG_8013-2.jpg)
+
 
 Of course there is plenty of other prior art available online for other RIMS and HERMS builds. A huge number of wiring diagrams and other people’s build logs exist in various online blogs and forums. These can be a great source of inspiration and helpful during the research and planning phases of a project. Unfortunately, when it’s time to start building you would most likely have to piece together a system from multiple sources of information. Those sources could even be missing important steps in the build process. There’s also the risk of misinformation or trying to follow instructions written by someone who is even more clueless at what they’re doing than yourself.
 
@@ -38,9 +39,9 @@ On the other hand, The Electric Brewery is an incredibly detailed guide includin
 
 Through my planning I decided to make a few deviations from the plans in my own system. I settled on three key system changes. The first was in the front panel components. The original design included amp and volt meter displays. Many people seem to have a lot of issues getting these components initially working. I didn’t see that they added much real value to the panel capabilities compared to the hassle that might be involved in getting them to work. So I decided to simply omit them from my build. I also omitted the timer reset button and combined the alarm and buzzer indicators into a single unit. Next, I added an oversized emergency stop mushroom button. This feature is probably unnecessary overkill as an additional safety feature, but I do think it looks good. I also considered adding additional switches to be able to turn the PID’s and timer power on and off rather than having them always on when the panel is powered on. I ended up abandoning this idea in the end, worrying that cramming 4 more switches on the front panel would just take up too much room. Lastly, I chose to use different models for the PID and timer parts.
 
-[  
-<img class="left" title="DIN Rail" src="http://farm9.staticflickr.com/8356/8401548810_2e603bb537_n.jpg" alt="" />  
-][4]  
+![DIN Rail](/images/homebrew/IMG_7979.jpg)
+
+
 I also changed the some of the control panel internals. Rather than mount all of the internal components directly to the panel backplane, I decided to use a DIN rail mounting system. In this system, standard metal rails are secured to the back of the panel and then DIN compatible components simply snap onto the rail. This system it would make it a bit easier if I ever want to make internal upgrades or reconfigurations later on. It also allowed me to use a more modular style of connector system to replace the conventional terminal blocks. Also, rather than use fuses to protect the internal wiring, I decided to use circuit breakers. This is another area that is probably unnecessary overkill. However, it’s easier to reset a breaker than replace a fuse. I’ve also seen a number of other system diagrams that use similar circuit breakers. Once again, the DIN rail makes them easy to add so it was an easy decision. Since I got rid of the amp and volt meters, I was also able to leave out the DC transformers and shunt required to drive them. This gave me a bit more room to organize the inside and I was able to move the octal relay from the door to the back of the panel with the rest of the internal components.
 
 The third major system design change was in the boil kettle. There a lot of differing opinions and options when it comes to filtering kettle trub. The Electric Brewery opted to use the hop stopper, a large flat round mesh screen surrounding the dip tube inside the kettle. Given my experience of clogging with the mesh bazooka screen, I was very hesitant to use a mesh screen solution again. Instead I opted to install an extra port on my boil kettle and perform a whirlpooling step prior to chilling. The whirlpool works to concentrate all of the kettle trub into a cone in the center of the kettle away from the pickup tube that the wort is drained from.
@@ -57,12 +58,10 @@ When it came to actual electrical components, I went with a trusted vendor inste
 
 ### Conclusion
 
-With all of the planning done and the parts sourced, the next step is to actually start assembling the pieces into something functional. The details of the build will be covered in the next post. In the meantime, here’s the [Full Build Image Gallery][12].
+With all of the planning done and the parts sourced, the next step is to actually start assembling the pieces into something functional. The details of the build will be covered in the next post. In the meantime, here’s the [Full Build Image Gallery](/gallery/electric-brewery/).
 
  [1]: http://theelectricbrewery.com/
- [2]: http://www.flickr.com/photos/quantumfish/8427093799/in/set-72157632366743343
  [3]: http://www.theelectricbrewery.com/the-complete-guide-to-building-your-brewery
- [4]: http://www.flickr.com/photos/quantumfish/8401548810/in/set-72157632366743343
  [5]: http://stores.ebay.com/FURRYLETTERS
  [6]: http://stores.ebay.com/Milspec-Direct/_i.html?_fsub=1058349014
  [7]: http://stores.ebay.com/Electrical-Replacement-Parts/Enclosures-Steel-/_i.html?_fsub=13&_sid=5125342&_trksid=p4634.c0.m322
@@ -70,4 +69,3 @@ With all of the planning done and the parts sourced, the next step is to actuall
  [9]: http://www.automationdirect.com/adc/Home/Home
  [10]: http://www.mcmaster.com/
  [11]: http://morebeer.com/
- [12]: http://www.flickr.com/photos/quantumfish/sets/72157632366743343/

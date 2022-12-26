@@ -5,7 +5,7 @@ type: post
 date: 2011-01-14T00:00:00+00:00
 url: /homebrewing/2011/01/14/back-yard-shambling/
 image: /uploads/2011/01/5232029243_b7d7cd4ef1_b.jpg
-
+socialShare: false
 categories:
   - Brews
 
@@ -26,17 +26,17 @@ Up to now I’ve been hesitant to move to using an active wort chiller. While I 
 
 Finally, everything will be connected together with one final series of plumbing upgrades. My boil kettle will be fitted with a weldless ball valve assembly and the inner bulkhead will be attached to a mesh steel hop strainer. A magnetic drive high temperature march pump will be used to facilitate transferring hot liquid between various vessels throughout the brewing process. The connections between the kettle, pump, and chiller will be managed using 1/2” high temperature hoses outfitted with polysulfone quick disconnect fittings.
 
-[![Brewery Upgrade](http://farm2.static.flickr.com/1205/5149637849_a4deced21a.jpg)][1]
+![Brewery Upgrade](/images/homebrew/IMG_1047.jpg)
 
 #### Build & Brew
 
-Before placing an order with [Northern Brewer][2] for all of the various fittings I’ve spent a bit of time in photoshop creating [diagrams][3] of how each of the parts will fit into the overall system. This greatly simplifies the task of knowing what parts I need to order and helps make sure I don’t inadvertently leave anything out. Once the parts arrive I’m able to refer to these reference images again to facilitate assembling the pieces in the correct sequence.
+Before placing an order with [Northern Brewer][2] for all of the various fittings I’ve spent a bit of time in photoshop creating diagrams of how each of the parts will fit into the overall system. This greatly simplifies the task of knowing what parts I need to order and helps make sure I don’t inadvertently leave anything out. Once the parts arrive I’m able to refer to these reference images again to facilitate assembling the pieces in the correct sequence.
 
 As with most aspects of the brewing world there is no one right way to do things. Especially in the homebrew segment, the DIY ethos is strongly encouraged and embraced. This can make things challenging if you’re dealing with an unfamiliar subject. When you’re building your brewing system, it’s easy to find lots of opinions and advice on how to do it. Ultimately, you have to decide what works best for your needs. Of course, those needs will change as your brewing evolves and you should be prepared to modify, adapt, and extend your systems to match that growth.
 
 At last, the parts arrive. I tediously drill, tape, assemble and test all of the new components. Everything looks good and the brew day is here. This is a monumental session with a lot of new unknowns. For as seemingly complicated as my setup has gotten, everything goes amazingly smoothly. Heating water and wort progresses in less time once I get the hang of running the new burner. The pump makes moving liquid through the pipeline a breeze. There is only one instance when I momentarily have trouble getting the pump primed and flowing. There are no sparging issues. The chiller is able to cool the wort down in a fifth of the time of my usual ice bath procedure while using only around ten gallons of water.
 
-[![Backyard Boil](http://farm6.static.flickr.com/5289/5232029243_b7d7cd4ef1.jpg)][4]
+
 
 ## Shambler Amber Ale
 
@@ -91,7 +91,5 @@ Primary fermentation only takes about three days to finish off. Given my disappo
 
 I learned a lot of new things here. My equipment upgrades have altered my brewing procedures in significant ways. Despite the issues, I’ve also turned out a drinkable brew from kettle to glass in around seven days. This is record time compared to a previous average time probably closer to a month or more. Even with mistakes I’ve ended up with something wholly drinkable. As it continues to age, the rye character comes out even further. While I might not make this exact recipe again, I’ll definitely look for a way to work rye into a future recipe.
 
- [1]: http://www.flickr.com/photos/quantumfish/5149637849/in/set-72157622732321605/
+
  [2]: http://northernbrewer.com/
- [3]: http://quantumfish.com/media/brew-system.png
- [4]: http://www.flickr.com/photos/quantumfish/5232029243/in/set-72157622732321605/

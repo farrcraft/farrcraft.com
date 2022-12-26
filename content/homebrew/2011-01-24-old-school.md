@@ -19,7 +19,7 @@ It’s time for a new recipe and all new mistakes. This is batch #2 on my v3.0 b
 
 This year’s brew is the 11-11-11 series. It will be brewed around one year prior to November 11th, 2011 and age for a full year before consuming. The chosen recipe is the [11-11-11 Gun Stock Ale][1] formulated through a social collaboration on the HBT forums. It is in the style of an Old Ale and fermented with a seasonal Wyeast blend of yeast which combines two different yeast strains.
 
-[![Brew Prep](http://farm6.static.flickr.com/5247/5232625836_b66b3c6682.jpg)][2]
+![Brew Prep](/images/homebrew/IMG_1077.jpg)
 
 For sourcing the ingredients, I decided to try out [Brewmasters Warehouse][3]. This recipe has a few ingredients which many suppliers don’t stock. The Wyeast Private Collection strains are limited edition releases that are fairly hard to find. Brown malt is also difficult to come by. Amber malt is slightly less rare, but it can also be problematic to track down. Luckily, Brewmasters Warehouse carries all of these ingredients. They also have an online recipe crafting tool which allows anyone to build and share their recipes. Simply input a recipe using their available stock of ingredients and anyone can instantly add them to their shopping cart with a few simple mouse clicks. Another HBT forum user was kind enough to post [this recipe][4] for anyone who wanted to do their shopping here.
 
@@ -53,7 +53,6 @@ Overall, I can’t say I was disappointed with my experience ordering from this 
   * F.G.: 1.020 ?
   * A.B.V.: 8.3% ?
 
-[![Reduction Foam Up](http://farm6.static.flickr.com/5162/5232628584_95916a3e42.jpg)][5]
 
 I’ve done a Scottish ale which used a first running reduction before and it was one of my favorite brews. The rich caramel and toffee flavors added from the reduced syrup add a great flavor complexity. Any time you’re doing a reduction of this nature it is very important to use a large pot with lots of extra head space. Even boiling down a gallon or two in a five gallon pot can produce a full pot of foam at a rigorous boil.
 
@@ -68,7 +67,5 @@ Before the brew day, I did research on various brewing worksheets and collected 
 It will be a while before I know how this one turned out. After a month, the primary ale yeast strain had done its job, producing an 8.3% ABV beer and I transferred into a glass carboy. Over the course of the next several months, the Brettanomyces strain of yeast will slowly do its work and hopefully add to the overall character of the beer. I will also be adding oak cubes at some point during this secondary phase in order to add another layer of flavor complexity to the final beer.
 
  [1]: http://www.homebrewtalk.com/f74/11-11-11-gun-stock-ale-old-ale-official-recipe-197241/
- [2]: http://www.flickr.com/photos/quantumfish/5232625836/
  [3]: http://www.brewmasterswarehouse.com
  [4]: http://www.brewmasterswarehouse.com/recipe/ee2df8e3/
- [5]: http://www.flickr.com/photos/quantumfish/5232628584

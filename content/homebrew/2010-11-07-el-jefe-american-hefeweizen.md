@@ -53,7 +53,6 @@ I prepared the yeast starter on the day before the brew day. To do this I first 
 
 After the first all grain disaster where the manifold separated from the spigot, some repairs needed to be made. Securing the manifold with additional zip ties and taking more care when stirring the mash prevented the same problem from recurring. While the manifold stayed in place this time, wort flow during the sparge was still not moving at a rate I was happy with. Still, I was able to slowly collect the necessary pre-boil wort volume.
 
-[![Blow Off](http://farm5.static.flickr.com/4066/4580771350_af96945cf3.jpg)][4]
 
 It wasn’t until a day into fermentation when disaster reared its ugly head. Strong fermentation managed to clog the airlock. Pressure continued to build inside the bucket during the day while I was off at work. The seal in the lid eventually gave way to relieve some of this build up. The real disaster of an exploding bucket of beer was narrowly avoided. I was instead greeted with a sticky mess of overflow where the seals had given to the pressure. The primary fermentation phase was finished off with a proper blow off tube.
 
@@ -64,4 +63,3 @@ These write ups after each session help me see weak areas in my process that nee
  [1]: http://www.homebrewersassociation.org/
  [2]: http://www.homebrewersassociation.org/pages/events/national-homebrew-day
  [3]: http://wiki.homebrewersassociation.org/AmericanCraftBeerWheatAllGrain
- [4]: http://www.flickr.com/photos/quantumfish/4580771350/in/set-72157622732321605/

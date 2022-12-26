@@ -21,7 +21,7 @@ Among firsts, this was also my first experience using [morebeer.com][2] as a ven
 
 Unfortunately, it turned out that parts of my order were out of stock. This included the 3 gallon carboys which took three weeks from my initial order placement before finally shipping. However, due to my proximity to the fulfillment center, packages arrived promptly on the next day after shipping. There was also a minor issue with a leaking container of Star San in part of the shipment. Luckily, the MoreBeer support staff were helpful and happy to quickly replace the damaged merchandise. Despite the fulfillment and packing issues, I’ll definitely keep this vendor in my pocket for future orders.
 
-[![Mise en Place](http://farm6.static.flickr.com/5004/5354624237_73e98c530f.jpg)][3]
+
 
 ## Raspberry Melomel
 
@@ -45,7 +45,7 @@ The lemons are easily juiced by hand, however the smaller size of the limes prov
 
 The last step of preparation is to heat up two gallons of water in my 5 gallon brew kettle. My plan is to mix the honey into the hot water and then transfer it into the carboy. I’ll top the carboy off with whatever additional cold water I need to complete the 3 gallon volume. I don’t heat the water all the way to a boil. It only reaches around 160 degrees. While the water is heating up, I take the time to transfer the raspberries, soaking water, tea, and citrus juice into the sanitized carboy. There is no quick and easy way to get the raspberries into the carboy. The only way to do it is to transfer them a few at a time by hand. Once I’ve mixed all of the honey into the hot water, I use my racking cane to transfer the solution into the carboy.
 
-[![Razzmatazz](http://farm6.static.flickr.com/5286/5355240908_c2713ab45a.jpg)][4]
+![Razzmatazz](/images/homebrew/IMG_1214.jpg)
 
 ### Final Thoughts
 
@@ -61,5 +61,3 @@ The plan is to transfer the liquid into a secondary carboy in about a month or s
 
  [1]: http://morebeer.com/
  [2]: http://www.morebeer.com
- [3]: http://www.flickr.com/photos/quantumfish/5354624237/
- [4]: http://www.flickr.com/photos/quantumfish/5355240908/

@@ -44,7 +44,7 @@ As usual, at first everything was looking good for this one. After transferring 
 
 At this point I noticed that the wort appeared to be a very watery pale yellow. The taste of the sample wasn’t exactly pleasant either with a very sharp woody flavor. It looked like this one may end up being another drain dump. Unfortunately, I needed the carboy to transfer my Raspberry Melomel (with its own currently disappointing flavor issues). So I made the decision to dump the contents of the carboy into my 10L barrel for further aging. I had my doubts that it would improve the situation, but at least it will keep the barrel wet until I had something better to fill it with.
 
-[![Fermentation Chamber](http://farm5.static.flickr.com/4100/5444552654_1839cfe24c.jpg)][2]
+
 
 ## Shill For Hire
 
@@ -103,5 +103,4 @@ I can’t say I’m terribly disappointed with this run. Compared to the last ba
 
 **Update 05-17-11**: I’ve had this one on tap for a few months now. I can’t say it’s nearly as good as I remember my first Scotch ale being. I don’t find a lot of smokiness coming through. I would definitely bump up the Rauch malt next time. I think that the Pacific Gem hops played a significant role in the flavor profile last time too. Overall, the final beer is definitely highly drinkable, but I’ll be looking to tweak the recipe a bit in the next iteration.
 
- [1]: http://itenerancy.com/blog/2010/09/22/scottish-zombie-jesus/
- [2]: http://www.flickr.com/photos/quantumfish/5444552654/
+ [1]: /homebrewing/2010/09/22/scottish-zombie-jesus/

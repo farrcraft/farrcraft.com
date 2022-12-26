@@ -40,7 +40,6 @@ This particular recipe comes from the replicator column in the December 2009 iss
   * ABV 5.8%
   * SRM 34
 
-[![Mise en place](http://farm3.static.flickr.com/2699/4539938976_be9446247a_d.jpg)][1]
 
 ### Notes
 
@@ -67,7 +66,7 @@ I’ve quickly found out that my LHBS introduces yet another unforeseen factor i
 
 *One final deviation I’ve made to my version is to use late extract addition and with the DME. This leads to a slightly higher IBU due to greater hop utilization. It could also potentially reduce the effects of extract caramelization which include a higher SRM (darker color) and off tastes. In the case of a dark beer such as a porter, these aren’t significant issues anyway.
 
-[![Grains](http://farm3.static.flickr.com/2788/4539287457_b665b49d60_d.jpg)][2]
+![Grains](/images/homebrew/IMG_9850.jpg)
 
 ### Brew Day
 
@@ -80,6 +79,3 @@ Everything seems to be going smoothly. Then, disaster strikes. Knowing the risk 
 Had this been another style, the problems during the brewing session could have been much more devastating. Luckily, any off or burnt flavors or darker color produced from the scorched extract are able to blend well with the porter style. Additionally, the material has mostly settled into the trub and been removed from the final bottled product. Having prepared a yeast starter instead of simply relying on un-rehydrated dry yeast might have also increased attenuation and helped to get closer to the expected final gravity.
 
 Despite these shortcomings, after priming and bottle conditioning it still ends up being great beer. It might not be anything resembling a proper clone of its namesake, but I don’t much care. Successful recipe cloning and reproduction may certainly be a display of technical brewing expertise. I’ve taken a slightly different path here. Using one interpretation of an existing successful commercial recipe I’m continuing to follow the ethos of the craft and homebrew worlds and created something that is my own.
-
- [1]: http://www.flickr.com/photos/quantumfish/4539938976/
- [2]: http://www.flickr.com/photos/quantumfish/4539287457/

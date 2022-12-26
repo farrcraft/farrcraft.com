@@ -27,7 +27,7 @@ I already had a spare 5 gallon homer bucket from home depot. I ordered an additi
 
 In all, my initial grain order added up to around 38 pounds of malt. When the packages arrived, I labeled each vacuum sealed bag with date, grain type and weight using a sharpie and stored it in one of my gamma sealed buckets. Grains which came in paper sacks and not sealed plastic bags were transferred into gallon sized Ziploc bags. These bags were also labeled with series number and overall grain weight. Each 1 gallon bag can hold around 5 pounds of grain. My 20 pounds of 2-row base malt was split into four numbered bags. Once the smaller vacuum sealed bags were opened, any unused grain in these bags also gets placed in gallon Ziploc bags labeled with dates and remaining quantity.
 
-[![Granary](http://farm5.static.flickr.com/4073/5439221617_35dbd367d4.jpg)][6]
+
 
 #### Mill Mishaps
 
@@ -37,7 +37,7 @@ There’s just one problem with my plan &#8211; I don’t have a grain mill. My 
 
 As it turned out, my tests were less than ideal. The first hopper build didn’t work to contain and direct the grain as I wanted. Instead I tried a quick hopper built up from cardboard and tape. While this hopper proved to be much more effective than the initial wood and screw construction, the mill itself showed its weaknesses. As evidenced by extensive forum threads there are many people putting these together and getting great results. I just couldn’t seem to make it work for my needs. Some of this could be attributed to my usage of the hand crank instead of adapting the system over to a drill operated mechanism. It could also be my lack of DIY construction skill. Ultimately, I abandoned the DIY mill and settled on a commercially built [Monster Mill][8].
 
-[![Monster Mill](http://farm6.static.flickr.com/5019/5427312438_2da9247449.jpg)][9]
+![Monster Mill](/images/homebrew/IMG_1273.jpg)
 
 ## The Commoner
 
@@ -95,7 +95,5 @@ At the end of the day my final concern came down to yeast viability. The vial sa
  [3]: http://beersmith.com/
  [4]: http://www.theelectricbrewery.com/grain-mill
  [5]: http://www.amazon.com/Gamma2-Gamma-Gallon-Buckets-Pails/dp/B001VBALBK/ref=sr_1_1?ie=UTF8&qid=1297059076&sr=8-1
- [6]: http://www.flickr.com/photos/quantumfish/5439221617/
  [7]: http://www.homebrewtalk.com/f11/using-pasta-maker-mill-grain-75784/
  [8]: http://www.monsterbrewinghardware.com/mm-2.html
- [9]: http://www.flickr.com/photos/quantumfish/5427312438/

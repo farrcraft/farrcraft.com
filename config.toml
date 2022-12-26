@@ -46,6 +46,10 @@ I now focus on building and growing awesome engineering teams as an engineering 
 [params.experience]
 enable = true
 items = [
+    {company = 'Nava PBC', companyUrl = '', date = 'Sept 2022 - Current', content = '''
+''', positions = [
+    {job = 'Engineering Manager'}
+]},
     {company = 'Dribbble', companyUrl = 'https://dribbble.com/', date = 'Jan 2022 - May 2022', content = '''
 ''', positions = [
     {job = 'Director of Infrastructure', date = 'Jan 2022 - May 2022', content = '''
@@ -111,6 +115,11 @@ Integrated third-party backend network tools using C and Perl with custom-built 
 
 [params.projects]
 enable = true
+
+[params.gallerydeluxe]
+shuffle = false
+reverse = false
+enable_exif = false
 
 [params.footer]
 recentPosts = false

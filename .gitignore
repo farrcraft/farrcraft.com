@@ -1,3 +1,6 @@
 public/*
 resources/_gen/*
 Thumbs.db
+
+# don't store gallery images in repo
+content/gallery/*/*.jpg

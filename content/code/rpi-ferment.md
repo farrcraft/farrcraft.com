@@ -1,7 +1,7 @@
 ---
 title: rpi-ferment
 author: Josh
-type: projects
+type: code
 image: /uploads/2015/07/rpiferment.jpg
 socialShare: false
 ---

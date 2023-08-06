@@ -2,17 +2,21 @@ baseURL = 'https://farrcraft.com/'
 languageCode = 'en-us'
 title = 'farrcraft.com'
 theme = 'profile'
+timeout = '300s'
+
+paginate = 25
 
 [Menus]
 main = [
-    { identifier = 'blog', name = 'Blog', title = 'Blog posts', url = '/blog', weight = 1 },
-    { identifier = 'homebrew', name = 'Homebrew', title = 'Homebrew', weight = 2 },
+    { identifier = 'workshop', name = 'Workshop', title = 'Workshop', url = '/workshop', weight = 1 },
+    { identifier = 'food', name = 'Food', title = 'Food', url = '/food', weight = 2 },
+    { identifier = 'photography', name = 'Photography', title = 'Photography', url = '/photography', weight = 3 },
+    { identifier = 'on-making', name = 'On Making', title = 'On Making', url = '/on-making', weight = 4 },
+    { identifier = 'blog', name = 'Blog', title = 'Blog posts', url = '/blog', weight = 5 },
+    { identifier = 'homebrew', name = 'Homebrew', title = 'Homebrew', weight = 6 },
     { identifier = 'brew-blog', name = 'Posts', title = 'Posts', url = '/homebrew', parent = 'homebrew', weight = 1 },
     { identifier = 'brew-log', name = 'Brew Log', title = 'Brew Log', url = '/brew-log', parent = 'homebrew', weight = 2},
     { identifier = 'bottle-labels', name = 'Bottle Labels', title = 'Bottle Labels', url = '/bottle-labels', parent = 'homebrew', weight = 3},
-    { identifier = 'photography', name = 'Photography', title = 'Photography', url = '/photography', weight = 3 },
-    { identifier = 'food', name = 'Food', title = 'Food', url = '/food', weight = 3 },
-    { identifier = 'workshop', name = 'Workshop', title = 'Workshop', url = '/workshop', weight = 4 },
 ]
 
 [params]
@@ -30,7 +34,8 @@ image = '/images/hero.png'
 [params.hero.socialLinks]
 fontAwesomeIcons = [
     { icon = 'fab fa-github', url = 'https://github.com/farrcraft' },
-    { icon = 'fab fa-linkedin', url = 'https://www.linkedin.com/in/josh-farr/' }
+    { icon = 'fab fa-linkedin', url = 'https://www.linkedin.com/in/josh-farr/' },
+    { icon = 'fab fa-instagram', url = 'https://instagram.com/sigsegv'}
 ]
 
 [params.about]
@@ -45,12 +50,14 @@ While I spent the first two decades of my career as a developer in product and i
 I now focus on building and growing awesome engineering teams as an engineering leader. I am currently an Engineering manager at [Nava PBC](https://www.navapbc.com/).
 '''
 
-[params.experience]
+[params.work]
 enable = true
 items = [
     {company = 'Nava PBC', companyUrl = '', date = 'Sept 2022 - Current', content = '''
 ''', positions = [
-    {job = 'Engineering Manager', date = 'Sept 2022 - Current'}
+    {job = 'Engineering Manager', date = 'Sept 2022 - Current', content = '''
+I am currently leading the API development & cloud infrastructure engineering teams working to modernize the state of New Jersey's Unemployment Insurance systems through modern human-centered design, agile processes, and cloud-native technologies.
+'''}
 ]},
     {company = 'Dribbble', companyUrl = 'https://dribbble.com/', date = 'Jan 2022 - May 2022', content = '''
 ''', positions = [
@@ -115,7 +122,7 @@ Integrated third-party backend network tools using C and Perl with custom-built 
     ]}
 ]
 
-[params.projects]
+[params.code]
 enable = true
 
 [params.gallerydeluxe]

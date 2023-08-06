@@ -3,7 +3,12 @@ title: Home Theater Speakers
 type: workshop
 image: /workshop/images/ht-speakers/1.jpg
 socialShare: false
+date: 2020-07-19T00:00:00+00:00
+hideDate: true
 ---
+A set of 5.1 Home Theater speakers mostly based on the Jim Holtz/Curt Campbell Statements series of speaker designs.
+<!--more-->
+
 As part of a larger basement "Home Theater" project, I'm also custom building the speakers for the surround sound system.  These are the first 4 of 6 in total (It will ultimately be a Dolby Atmos 5.1.4 setup, but the 4 height speakers are just a basic ceiling mounted model). 
 
 They're all (except for the sub) based on a series of DIY speaker designs called "Statements" found here - http://www.speakerdesignworks.com/index_page_2.html  The lineup here includes a pair of Micro Statements for the surround channels, and the Statement Center Channel.  A pair of Monitor Statements will provide the front channels.

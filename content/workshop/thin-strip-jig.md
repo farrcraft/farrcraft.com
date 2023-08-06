@@ -4,7 +4,10 @@ type: workshop
 image: /workshop/images/thin-strip-jig/1-jig.jpg
 socialShare: false
 ---
-This is a jig used for safely ripping thin boards on the table saw.  Normally, if you try to setup to make a cut too narrow, the fence will be too close to the blade (and guard) to make a safe cut with a normal push stick.  This simple jig works to offset the fence to be out of the way and provides a built-in pushing mechanism well away from the saw blade.
+This is a jig used for safely ripping thin boards on the table saw.  
+<!--more-->
+
+Normally, if you try to setup to make a cut too narrow, the fence will be too close to the blade (and guard) to make a safe cut with a normal push stick.  This simple jig works to offset the fence to be out of the way and provides a built-in pushing mechanism well away from the saw blade.
 
 
 The jig is made from 3/4" plywood, but it doesn't need to be plywood.  It may be preferable that the vertical portion isn't plywood since 3/4" plywood isn't exactly 3/4" thick.  This can make calibration a bit more difficult.  The vertical pieces are attached with drywall screws in countersunk holes - glue would also work.  They could be a single longer board or more smaller ones like this.  The horizontal piece should be wide enough to both give clearance for the clamps and make enough room for the push block and your fleshy bits.  Mine is a bit narrow, but that's the scrap I had on hand to work with.  It's best to make the width easy to setup.  If you cut the base 9-1/4" wide then after adding the 3/4" wide mount on the right side, the total jig width is 10".  You can then just add 10" to your target cut width when setting up your saw's fence.

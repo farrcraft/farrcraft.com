@@ -7,7 +7,7 @@ socialShare: false
 
 Welcome to the deep cuts. Over 2+ decades, you develop some portfolio cruft. These are some of the bits and bobs that I've toiled and tinkered with over the years. There are some outdated and ocasionally cringeworthy technology choices, but also some bits that I'm really proud of for what they were at the time.
 
-## Personal Projects
+## Personal Web & Code Projects
 
 These are all projects I have worked on in my spare time for myself (such as this website), friends, or as learning experiences.
 

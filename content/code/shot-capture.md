@@ -1,6 +1,6 @@
 ---
 title: Shot Capture
-type: projects
+type: code
 socialShare: false
 showInHome: false
 ---

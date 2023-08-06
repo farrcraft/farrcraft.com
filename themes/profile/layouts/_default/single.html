@@ -20,9 +20,11 @@
             <h1 class="text-center mb-4">{{ .Title }}</h1>
             <div class="text-center">
               {{ .Params.author }}
+              {{ if (and (.Date) (not (.Params.hideDate))) }}
               {{ with .Date }}
               <small>|</small>
               {{ .Format "Jan 2, 2006" }}
+              {{ end }}
               {{ end }}
             </div>
           </div>
@@ -73,11 +75,6 @@
                   </a>
                 </li>
                 <li class="list-inline-item text-center">
-                  <a target="_blank" href="https://api.whatsapp.com/send?text={{ .Title }}: {{ .Site.Params.hostName }}{{ .Permalink | absURL }}">
-                    <i class="fab fa-whatsapp"></i>
-                  </a>
-                </li>
-                <li class="list-inline-item text-center">
                   <a target="_blank" href="mailto:?subject={{ .Title }}&amp;body=Check out this site {{ .Site.Params.hostName }}{{ .Permalink | absURL }}">
                     <i class="fa fa-envelope"></i>
                   </a>
@@ -87,11 +84,6 @@
           </aside>
           {{ end }}
         </div>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-sm-12 col-md-12 col-lg-9 p-4">
-        {{ template "_internal/disqus.html" . }}
       </div>
     </div>
   </div>

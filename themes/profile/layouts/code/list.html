@@ -1,6 +1,6 @@
 {{ define "head" }}
 <meta name="description" content="{{ .Title }} of {{ .Site.Title }}">
-<link rel="stylesheet" href="{{ .Site.Params.staticPath }}/css/projects.css" media="all">
+<link rel="stylesheet" href="{{ .Site.Params.staticPath }}/css/code.css" media="all">
 
 <!-- fontawesome -->
 <script defer src="{{ .Site.Params.staticPath }}/fontawesome-5/all-5.15.4.js"></script>
@@ -11,7 +11,7 @@
 {{ end }}
 
 {{ define "main" }}
-<div class="container pt-5" id="projects">
+<div class="container pt-5" id="code">
     <h2 class="text-center pb-2">{{.Title}}</h2>
     <p>These are a few of my highlighted personal code projects. There are even more <a href="/deep-cuts">deep cuts over here</a>.</p>
     <div class="row">

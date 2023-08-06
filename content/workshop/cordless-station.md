@@ -3,7 +3,11 @@ title: Cordless Station
 type: workshop
 image: /workshop/images/cordless-final-1.png
 socialShare: false
+date: 2020-12-06T00:00:00+00:00
+hideDate: true
 ---
+A wall-mounted organizational unit designed to store all of my cordless tools.
+<!--more-->
 
 Once I accumulated enough cordless tools*, I needed a centralized place to store them all (That reminds me of a classic George Carlin bit about "stuff". The more stuff you have, the more space you need to keep it). This was a quick weekend project with a bit of scrap plywood, an idea, and not much else of a plan.  I did a bit of online searching to get some ideas of form factors and inspiration and then headed into the shop to make a mess.  The slots along the bottom create bays to holster the tools, the area on top holds the charger and spare batteries, and the shelf in the middle keeps frequently used accessories easily accessible.  It is attached to the wall using French cleats**.
 

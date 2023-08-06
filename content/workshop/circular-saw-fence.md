@@ -3,7 +3,12 @@ title: Circular Saw Fence
 type: workshop
 image: /workshop/images/circular-saw-fence/11-results.jpg
 socialShare: false
+date: 2016-07-22T00:00:00+00:00
+hideDate: true
 ---
+This is a simple jig that helps make straight cuts with a circular saw.
+<!--more-->
+
 ![Source Material](/workshop/images/circular-saw-fence/1-source-material.jpg)
 I started with a piece of scrap 1/2" plywood. This piece is 4' long by something wide.
 

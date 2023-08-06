@@ -1,6 +1,6 @@
 ---
 title: vertical3D
-type: projects
+type: code
 image: /uploads/2015/07/v3d-ss2_sm.png
 socialShare: false
 ---

@@ -3,7 +3,14 @@ title: Kitchen Remodel
 type: workshop
 image: /workshop/images/kitchen-remodel/1.png
 socialShare: false
+date: 2021-07-21T00:00:00+00:00
+hideDate: true
 ---
+A home renovation journey where we attempt to remodel our kitchen.
+<!--more-->
+
+# Pre-Visualization
+
 3D Viz is one of the crucial up front planning phases of the project.  I spend much of my time in Autodesk Fusion 360 mocking up assemblies like this base cabinet.  It lets me work through how all of the pieces interact and should be assembled before actually working with any of the materials.  
 
 Everything is modeled with the amount of detail exactly as it would exist in the real world.  All of the joinery from rabbets, dadoes, mortises, tenons, and dovetails get modeled.  This detail helps me understand how the component parts define the rigidity of the larger structures, deal with potential racking issues, work out design and assembly details, and provides valuable build-time information further downstream.
@@ -32,6 +39,7 @@ Rendering of the opposite side.
 ![](/workshop/images/kitchen-remodel/7.png)
 Once we've settled on cabinetry layout and design, I can create exploded views to help visualize assembly.  Fusion 360 has a suite of animation tools at its disposal, including fully animating complicated assemblies.  Quickly creating these static exploded views just scratches the surface, but again, it's enough for my needs here.
 
+# Planning
 
 ![](/workshop/images/kitchen-remodel/8.png)
 Use Excel spreadsheets to keep track of everything you can.  It works for everything from cost tracking, inventory management, scheduling, time tracking, parts lists, and more.
@@ -52,10 +60,12 @@ The drawings contain not only the 3D exploded views, but also various profile vi
 ![](/workshop/images/kitchen-remodel/12.png)
 With all of our parts lists and dimensions worked out, we can plug everything into our cut list software and print out an optimized layout illustrating the number of sheet goods and layout of the cuts required to break down the material into the individual parts.  To make the layout clear, components use a codified naming system kept track of in an Excel spreadsheet.
 
+# Material Prep
 
 ![](/workshop/images/kitchen-remodel/13.jpg)
 All of the new cabinet carcasses will be constructed from 15 sheets of Baltic Birch plywood in 3/4" (10 sheets), 1/2" (2 sheets) and 1/4" (3 sheets) thicknesses.  The process goes from rough cutting full sheets with a track saw down to a manageable size first before moving on to the table saw for finish cutting the final parts.
 
+# Demolition
 
 ![](/workshop/images/kitchen-remodel/14.jpg)
 One side of the kitchen cabinets mostly removed, save the rest of a wall cabinet still to be done.

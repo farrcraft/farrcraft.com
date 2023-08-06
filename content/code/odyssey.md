@@ -1,6 +1,6 @@
 ---
 title: Odyssey
-type: projects
+type: code
 socialShare: false
 showInHome: false
 ---

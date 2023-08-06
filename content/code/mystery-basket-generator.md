@@ -1,7 +1,7 @@
 ---
 title: mystery-basket-generator
 author: Josh
-type: projects
+type: code
 image: /uploads/2015/07/basilv2.jpg
 showInHome: false
 socialShare: false

@@ -3,10 +3,14 @@ title: Workshop Tour - March 2019
 type: workshop
 image: /workshop/images/workshop-tour-2019/4.jpg
 socialShare: false
+date: 2019-03-14T00:00:00+00:00
+hideDate: true
+toc: false
 ---
-Pictured above, an earlier iteration of one of the sides of my workshop featuring my original table saw.  
+Pictured above, an earlier iteration of one of the sides of my workshop featuring my original table saw.  The following is the state of my garage shop since then, circa March 2019.
+<!--more-->
 
-The following is the state of my garage shop since then, circa March 2019.  It is not quite a full size 2 car garage at around 19' deep by 17' wide.  It still needs to fit one parked car when not being used.  This means that most tools are on wheels so they can be moved around and stored along the sides when not in use.  Also, the garage door wall has to remain clear for car ingress and egress.
+  It is not quite a full size 2 car garage at around 19' deep by 17' wide.  It still needs to fit one parked car when not being used.  This means that most tools are on wheels so they can be moved around and stored along the sides when not in use.  Also, the garage door wall has to remain clear for car ingress and egress.
 
 
 ## South Wall

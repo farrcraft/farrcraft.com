@@ -11,7 +11,16 @@ All other content (c) Joshua Farr.
 ## Deployment
 
 The site has outgrown the size limits of GitHub Pages.
-This version publishes the files to an S3 bucket instead.
+This version publishes the files to an S3 bucket fronted by CloudFlare instead.
+
+```
+# From MSYS2 terminal
+cd /y/Josh/Farrcraft.com/hugo/farrcraft.com
+# For local dev server mode run `../hugo.exe server` instead
+../hugo.exe
+cd public
+s3cmd sync ./ s3://farrcraft.com
+```
 
 ### Github Pages
 
